@@ -1,2 +1,5 @@
-# financeiro-backup-info
-Apresentação e privacidade da ferramenta pessoal de backup. Nenhum dado ou segredo.
+# Financeiro Backup Online
+
+Somente apresentação pública e política de privacidade.
+
+Não contém código operacional, dados, backups ou credenciais.
